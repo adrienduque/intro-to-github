@@ -107,7 +107,7 @@ The branch will automatically switch to the one you have just created. The **mai
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Step 2: Commit a file !</h2></summary>
 
 _You created a branch! :tada:_
 
